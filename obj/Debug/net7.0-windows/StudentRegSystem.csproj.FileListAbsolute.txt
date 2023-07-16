@@ -1,0 +1,88 @@
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.csproj.AssemblyReference.cache
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\App.g.cs
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem_MarkupCompile.cache
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem_MarkupCompile.lref
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\bin\Debug\net7.0-windows\StudentRegSystem.exe
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\bin\Debug\net7.0-windows\StudentRegSystem.deps.json
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\bin\Debug\net7.0-windows\StudentRegSystem.runtimeconfig.json
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\bin\Debug\net7.0-windows\StudentRegSystem.dll
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\bin\Debug\net7.0-windows\StudentRegSystem.pdb
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\MainWindow.baml
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.g.resources
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.AssemblyInfoInputs.cache
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.AssemblyInfo.cs
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.csproj.CoreCompileInputs.cache
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.csproj.CopyComplete
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.dll
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\refint\StudentRegSystem.dll
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.pdb
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.genruntimeconfig.cache
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\ref\StudentRegSystem.dll
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\AddStudentWindow.g.cs
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\WelcomeWindow.g.cs
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\App.baml
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\AddStudentWindow.baml
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\WelcomeWindow.baml
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Users\Avishka\LECTURE_MATERIALS\semester 3\Computer Engineering\EE3151 Programming project\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem_Content.g.cs
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\bin\Debug\net7.0-windows\StudentRegSystem.exe
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\bin\Debug\net7.0-windows\StudentRegSystem.deps.json
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\bin\Debug\net7.0-windows\StudentRegSystem.runtimeconfig.json
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\bin\Debug\net7.0-windows\StudentRegSystem.dll
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\bin\Debug\net7.0-windows\StudentRegSystem.pdb
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\AddStudentWindow.g.cs
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem_Content.g.cs
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem_MarkupCompile.cache
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem_MarkupCompile.lref
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\App.baml
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\AddStudentWindow.baml
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.g.resources
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.AssemblyInfo.cs
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.csproj.CopyComplete
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.dll
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\refint\StudentRegSystem.dll
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.pdb
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.genruntimeconfig.cache
+C:\Users\User\Desktop\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\ref\StudentRegSystem.dll
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\bin\Debug\net7.0-windows\StudentRegSystem.exe
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\bin\Debug\net7.0-windows\StudentRegSystem.deps.json
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\bin\Debug\net7.0-windows\StudentRegSystem.runtimeconfig.json
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\bin\Debug\net7.0-windows\StudentRegSystem.dll
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\bin\Debug\net7.0-windows\StudentRegSystem.pdb
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\AddStudentWindow.g.cs
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\WelcomeWindow.g.cs
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem_Content.g.cs
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem_MarkupCompile.cache
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem_MarkupCompile.lref
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\App.baml
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\AddStudentWindow.baml
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\WelcomeWindow.baml
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.g.resources
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.AssemblyInfo.cs
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.csproj.CopyComplete
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.dll
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\refint\StudentRegSystem.dll
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.pdb
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\StudentRegSystem.genruntimeconfig.cache
+C:\Users\User\Desktop\Project\StudentRegSystem\StudentRegSystem\obj\Debug\net7.0-windows\ref\StudentRegSystem.dll
